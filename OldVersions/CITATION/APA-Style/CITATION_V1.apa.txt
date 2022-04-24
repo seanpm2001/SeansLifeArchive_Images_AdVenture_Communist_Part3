@@ -1,0 +1,1 @@
+Myrick family, S. P. M. (2022). Video game (AdVenture Communist (2016) by HyperHippo) data for machine learning and stock imagery. Part 3 (rank 60 to rank 69) as a free to play [Data set]. https://doi.org/10.0000/00000
